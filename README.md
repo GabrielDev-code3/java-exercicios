@@ -31,4 +31,4 @@ Guardar e documentar a evolução da minha prática com Java — laços, condici
 
 Gabriel — estudante de Engenharia de Computação
 
-[LinkedIn](linkedin.com/in/gabriel-silva-code1) · [GitHub](#)
+[LinkedIn](https://linkedin.com/in/gabriel-silva-code1) · [GitHub](https://github.com/GabrielDev-code3)
