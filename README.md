@@ -9,7 +9,6 @@ Guardar e documentar a evolução da minha prática com Java — laços, condici
 ## 🛠️ Tecnologias
 
 - Java
-- (adicione aqui outras ferramentas conforme forem entrando, ex: JUnit, Maven)
 
 
 
